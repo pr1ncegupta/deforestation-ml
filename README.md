@@ -1091,7 +1091,11 @@ This project is licensed under the MIT License.
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Sakshi
+- Isha
+- Nikita
+- Prince
+
 
 ---
 
